@@ -32,7 +32,14 @@ export default function Home() {
       </header>
 
       <div className="flex flex-col h-full justify-center items-center p-24">
-        <h1 className="text-5xl font-black">The Nodestream Foundation</h1>
+        <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
+          The Nodestream Foundation
+        </h1>
+        <blockquote className="w-1/2 mt-6 border-l-2 pl-6 italic">
+          "If we knew exactly the laws of nature and the situation of the
+          universe at the initial moment, we could predict exactly the situation
+          of the same universe at a succeeding moment." — Henri Poincaré
+        </blockquote>
       </div>
     </main>
   );
