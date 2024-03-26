@@ -18,7 +18,11 @@ export const metadata: Metadata = {
   description: "The Nodestream Foundation",
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
   return (
     <html lang="en" suppressHydrationWarning>
       <head />
