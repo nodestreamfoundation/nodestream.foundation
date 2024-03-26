@@ -36,9 +36,9 @@ export default function Home() {
           The Nodestream Foundation
         </h1>
         <blockquote className="w-1/2 mt-6 border-l-2 pl-6 italic">
-          "If we knew exactly the laws of nature and the situation of the
+          &quot;If we knew exactly the laws of nature and the situation of the
           universe at the initial moment, we could predict exactly the situation
-          of the same universe at a succeeding moment." — Henri Poincaré
+          of the same universe at a succeeding moment.&quot; — Henri Poincaré
         </blockquote>
       </div>
     </main>
