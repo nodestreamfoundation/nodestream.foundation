@@ -36,10 +36,10 @@ export default async function Home() {
 
             <div className="flex justify-center">
               <blockquote className="text-sm text-center italic text-muted-foreground md:w-2/5">
-                "If we knew exactly the laws of nature and the situation of the
-                universe at the initial moment, we could predict exactly the
-                situation of the same universe at a succeeding moment." — Henri
-                Poincaré
+                &ldquo;If we knew exactly the laws of nature and the situation
+                of the universe at the initial moment, we could predict exactly
+                the situation of the same universe at a succeeding
+                moment.&rdquo; — Henri Poincaré
               </blockquote>
             </div>
           </div>
